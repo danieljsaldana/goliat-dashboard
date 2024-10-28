@@ -1,39 +1,30 @@
 ![Goliat-Dashboard](/image.png)
 
-<p align="center">
-  <img src="https://img.shields.io/github/license/danieljsaldana/goliat-dashboard?style=flat-square" alt="GitHub" style="display: inline-block;">
-	<release alt="GitHub release" style="display: inline-block;">
-		<img src="https://img.shields.io/github/v/release/danieljsaldana/goliat-dashboard?style=flat-square" alt="GitHub release" style="display: inline-block;">
-		<img src="https://img.shields.io/github/v/release/danieljsaldana/goliat-dashboard?include_prereleases&style=flat-square" alt="GitHub release" style="display: inline-block;">
-	</release>
-	<img src="https://img.shields.io/github/downloads/danieljsaldana/goliat-dashboard/total?style=flat-square" alt="GitHub downloads" style="display: inline-block;">
-</p>
+**Goliat Dashboard** is a product fully developed with [Astro](https://astro.build/) that presents an interactive dashboard, powered by the [Terraform Cloud](https://www.terraform.io/cloud) API. The main goal is to provide concise metrics and a better distribution of projects and workspaces, offering a clear and detailed view of managed resources in real-time.
 
-**Goliat Dashboard** es un producto desarrollado completamente con [Astro](https://astro.build/) que presenta un panel interactivo, alimentado por la API de [Terraform Cloud](https://www.terraform.io/cloud). El objetivo principal es ofrecer métricas concisas y una mejor distribución de proyectos y workspaces, proporcionando una visión clara y detallada de los recursos gestionados en tiempo real.
+## Features
 
-## Características
+- **Terraform Cloud Integration:** The dashboard displays up-to-date metrics and a clear distribution of projects and workspaces, fed in real-time by the Terraform Cloud API.
+- **Additional integrations:** Support for [DigitalOcean](https://www.digitalocean.com/) API has been added, and future integrations with [Azure](https://azure.microsoft.com/) and [AWS](https://aws.amazon.com/) are planned to provide more insights within the dashboard.
+- **Real-time updates:** Thanks to these API integrations, the dashboard does not require any additional configuration or project onboarding processes. Dynamic routes are automatically generated and start showing data once the APIs are connected.
+- **Future expansions:** Plans include integrating [OpenAI](https://openai.com/) to provide users with additional insights and more detailed information about the projects.
 
-- **Integración con Terraform Cloud:** El Dashboard muestra métricas actualizadas y distribuciones claras de los proyectos y workspaces, alimentándose en tiempo real de la API de Terraform Cloud.
-- **Otras integraciones:** Se ha añadido soporte para la API de [DigitalOcean](https://www.digitalocean.com/), y se planea integrar [Azure](https://azure.microsoft.com/) y [AWS](https://aws.amazon.com/) en el futuro para ofrecer más información dentro del Dashboard.
-- **Actualización en tiempo real:** Gracias a las integraciones con estas APIs, el Dashboard no requiere configuración adicional ni procesos de "onboarding" para los proyectos. Las rutas dinámicas se generan automáticamente y comienzan a mostrar datos con solo conectar las APIs.
-- **Futuras expansiones:** Se planea la integración de [OpenAI](https://openai.com/) para proporcionar al usuario información adicional y más detallada sobre los proyectos en el futuro.
+## Project Status
 
-## Estado del Proyecto
+The **Goliat Dashboard** project is currently in development. More functionalities and improvements will be added soon, including new cloud service integrations and additional AI-driven features.
 
-El proyecto **Goliat Dashboard** está actualmente en fase de desarrollo. Próximamente, se incluirán más funcionalidades y mejoras, como nuevas integraciones con servicios de nube y características adicionales basadas en IA.
+## Installation
 
-## Instalación
+_Installation instructions to be defined._
 
-_Instrucciones de instalación por definir._
+## Usage
 
-## Uso
+_Usage instructions to be defined._
 
-_Instrucciones de uso por definir._
+## License
 
-## Licencia
+This project is licensed under the **GNU Affero General Public License v3**. You can find more information about the license [here](https://www.gnu.org/licenses/agpl-3.0.en.html).
 
-Este proyecto está licenciado bajo la **GNU Affero General Public License v3**. Puedes encontrar más información sobre la licencia [aquí](https://www.gnu.org/licenses/agpl-3.0.en.html).
+## Additional Resources
 
-## Recursos adicionales
-
-Se incluirán próximamente imágenes y un video demostrativo del Dashboard en acción.
+Images and a demo video of the dashboard in action will be included soon.
