@@ -11,7 +11,7 @@
 
 ## Project Status
 
-The **Goliat Dashboard** project is currently in development. More functionalities and improvements will be added soon, including new cloud service integrations and additional AI-driven features.
+The [**Goliat Dashboard**](https://github.com/users/danieljsaldana/projects/11/views/1) project is currently in development. More functionalities and improvements will be added soon, including new cloud service integrations and additional AI-driven features.
 
 ## Installation
 
