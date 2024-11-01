@@ -1,4 +1,4 @@
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/qboa7lv-618?si=tnqFwGpIHaDozsnB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+[![Goliat Dashboard - Demo en YouTube](https://img.youtube.com/vi/qboa7lv-618/maxresdefault.jpg)](https://www.youtube.com/watch?v=qboa7lv-618&autoplay=1)
 
 **Goliat Dashboard** is a product fully developed with [Astro](https://astro.build/) that presents an interactive dashboard, powered by the [Terraform Cloud](https://www.terraform.io/cloud) API. The main goal is to provide concise metrics and a better distribution of projects and workspaces, offering a clear and detailed view of managed resources in real-time.
 

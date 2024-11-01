@@ -1,4 +1,4 @@
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/qboa7lv-618?si=tnqFwGpIHaDozsnB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+[![Goliat Dashboard - Demo en YouTube](https://img.youtube.com/vi/qboa7lv-618/maxresdefault.jpg)](https://www.youtube.com/watch?v=qboa7lv-618&autoplay=1)
 
 <p align="center">
   <img src="https://img.shields.io/github/license/danieljsaldana/goliat-dashboard?style=flat-square" alt="GitHub" style="display: inline-block;">
