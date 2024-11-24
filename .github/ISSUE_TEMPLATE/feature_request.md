@@ -1,6 +1,6 @@
 ---
 name: 🚀 Feature Request
-about: Suggest a new feature or functionality.
+about: Suggest a new feature or improvement for the Astro application.
 title: "[FEATURE] Short description of the proposal"
 labels: enhancement
 assignees: ''
@@ -8,18 +8,21 @@ assignees: ''
 ---
 
 ## 🚀 Description
-[Provide a detailed description of the feature or functionality you'd like to propose.]
+[Provide a detailed description of the new feature or improvement you'd like to propose.]
+
+## 🌐 Context
+[Explain how this feature fits into the application. For example, is it related to routing, components, integrations, or deployment?]
 
 ## 💡 Motivation
-[Explain why this feature would be useful and how it would benefit the project.]
+[Explain why this feature is important. How would it improve the user experience, developer experience, or application functionality?]
 
 ## ✅ Acceptance Criteria
-- [ ] [First criterion]
-- [ ] [Second criterion]
+- [ ] [Criterion 1: The feature should do X.]
+- [ ] [Criterion 2: It should work under Y conditions.]
 - [ ] ...
 
-## 🛠️ Considered Alternatives
-[Describe other solutions or approaches you have considered, if any.]
+## 🛠️ Alternatives Considered
+[Describe any alternative solutions or approaches you considered.]
 
 ## 📋 Additional Notes
-[Add any additional details, diagrams, or references.]
+[Add diagrams, mockups, or references to other implementations if applicable.]
