@@ -25,10 +25,11 @@ assignees: ''
 [Link to or include any files, components, or code snippets related to the issue.]
 
 ## 🌐 Environment
-- **Astro Version:** [e.g., 2.0.0]
+- **Astro Version:** [e.g., 4.0.0]
 - **Node.js Version:** [e.g., v18.0.0]
 - **Browser:** [e.g., Chrome, Firefox]
 - **Operating System:** [e.g., macOS, Windows, Linux]
+- **Deployed On:** [e.g., Vercel, Netlify, Cloudflare Pages, or custom server]
 
 ## 📋 Additional Notes
 [Include screenshots, logs, or any other information that might help resolve the issue.]
