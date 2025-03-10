@@ -81,7 +81,7 @@ Goliat Dashboard es una plataforma que proporciona información centralizada, cl
 Clona el repositorio e instala las dependencias:
 
 ```bash
-git clone <url-del-repo>
+git clone https://github.com/danieljsaldana/goliat-dashboard.git
 cd goliat-dashboard
 npm install
 ```
